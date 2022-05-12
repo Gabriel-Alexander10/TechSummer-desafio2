@@ -1,0 +1,1419 @@
+{
+    "products": [
+        {
+            "cacheId": "camisa-original-copy-3-",
+            "productId": "3",
+            "description": "Descriçao sobre o produto , sobre suas qualidades e  detalhes do produto.",
+            "productName": "Camisa Original Blusao",
+            "productReference": "7546765",
+            "linkText": "camisa-original-copy-3-",
+            "brand": "Original",
+            "brandId": 2000000,
+            "link": "https://portal.vtexcommercestable.com.br/camisa-original-copy-3-/p",
+            "categories": [
+                "/Moda/Masculino/Camisas/",
+                "/Moda/Masculino/",
+                "/Moda/"
+            ],
+            "categoryId": "5",
+            "priceRange": {
+                "sellingPrice": {
+                    "highPrice": 50,
+                    "lowPrice": 50,
+                    "__typename": "PriceRange"
+                },
+                "listPrice": {
+                    "highPrice": 50,
+                    "lowPrice": 50,
+                    "__typename": "PriceRange"
+                },
+                "__typename": "ProductPriceRange"
+            },
+            "specificationGroups": [
+                {
+                    "name": "Caracteristicas",
+                    "originalName": "Caracteristicas",
+                    "specifications": [
+                        {
+                            "name": "Material",
+                            "originalName": "Material",
+                            "values": [
+                                "Algodao",
+                                "Poliester",
+                                "Veludo",
+                                "Jeans"
+                            ],
+                            "__typename": "SpecificationGroupProperty"
+                        }
+                    ],
+                    "__typename": "SpecificationGroup"
+                },
+                {
+                    "name": "allSpecifications",
+                    "originalName": "allSpecifications",
+                    "specifications": [
+                        {
+                            "name": "Material",
+                            "originalName": "Material",
+                            "values": [
+                                "Algodao",
+                                "Poliester",
+                                "Veludo",
+                                "Jeans"
+                            ],
+                            "__typename": "SpecificationGroupProperty"
+                        }
+                    ],
+                    "__typename": "SpecificationGroup"
+                }
+            ],
+            "skuSpecifications": [
+                {
+                    "field": {
+                        "name": "Cor",
+                        "originalName": "Cor",
+                        "__typename": "SKUSpecificationField"
+                    },
+                    "values": [
+                        {
+                            "name": "Amarelo",
+                            "originalName": "Amarelo",
+                            "__typename": "SKUSpecificationValue"
+                        },
+                        {
+                            "name": "Branco",
+                            "originalName": "Branco",
+                            "__typename": "SKUSpecificationValue"
+                        },
+                        {
+                            "name": "Preto",
+                            "originalName": "Preto",
+                            "__typename": "SKUSpecificationValue"
+                        }
+                    ],
+                    "__typename": "SkuSpecification"
+                },
+                {
+                    "field": {
+                        "name": "Tamanho",
+                        "originalName": "Tamanho",
+                        "__typename": "SKUSpecificationField"
+                    },
+                    "values": [
+                        {
+                            "name": "P",
+                            "originalName": "P",
+                            "__typename": "SKUSpecificationValue"
+                        },
+                        {
+                            "name": "G",
+                            "originalName": "G",
+                            "__typename": "SKUSpecificationValue"
+                        },
+                        {
+                            "name": "GG",
+                            "originalName": "GG",
+                            "__typename": "SKUSpecificationValue"
+                        }
+                    ],
+                    "__typename": "SkuSpecification"
+                }
+            ],
+            "properties": [
+                {
+                    "name": "Material",
+                    "values": [
+                        "Algodao",
+                        "Poliester",
+                        "Veludo",
+                        "Jeans"
+                    ],
+                    "__typename": "Property"
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "7",
+                    "name": "Branco",
+                    "nameComplete": "Camisa Original Blusao Branco",
+                    "complementName": "",
+                    "ean": "",
+                    "variations": [
+                        {
+                            "name": "Cor",
+                            "values": [
+                                "Branco"
+                            ],
+                            "__typename": "Property"
+                        },
+                        {
+                            "name": "Tamanho",
+                            "values": [
+                                "P"
+                            ],
+                            "__typename": "Property"
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "7546765",
+                            "__typename": "Reference"
+                        }
+                    ],
+                    "measurementUnit": "un",
+                    "unitMultiplier": 1,
+                    "images": [
+                        {
+                            "cacheId": "155495",
+                            "imageId": "155495",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155495-#width#-#height#/camisa.jpg?v=636864759007670000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste1\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155495/camisa.jpg?v=636864759007670000",
+                            "imageText": "modelo-teste1",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155496",
+                            "imageId": "155496",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155496-#width#-#height#/camisa1.jpg?v=636864759213700000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste2\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155496/camisa1.jpg?v=636864759213700000",
+                            "imageText": "modelo-teste2",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155497",
+                            "imageId": "155497",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155497-#width#-#height#/camisa2.jpg?v=636864759600900000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste3\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155497/camisa2.jpg?v=636864759600900000",
+                            "imageText": "modelo-teste3",
+                            "__typename": "Image"
+                        }
+                    ],
+                    "__typename": "SKU",
+                    "videos": [],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Original io - Stores Vtex.IO",
+                            "sellerDefault": true,
+                            "__typename": "Seller",
+                            "addToCartLink": "https://portal.vtexcommercestable.com.br/checkout/cart/add?sku=7&qty=1&seller=1&sc=1&price=5000&cv=8358B49FC6AD2A5AB29438079BD28EA8_&sc=1",
+                            "commertialOffer": {
+                                "discountHighlights": [],
+                                "teasers": [],
+                                "Price": 50,
+                                "ListPrice": 50,
+                                "Tax": 0,
+                                "taxPercentage": 0,
+                                "spotPrice": 50,
+                                "PriceWithoutDiscount": 50,
+                                "RewardValue": 0,
+                                "PriceValidUntil": "2023-05-12T18:04:05Z",
+                                "AvailableQuantity": 247,
+                                "__typename": "Offer",
+                                "CacheVersionUsedToCallCheckout": "8358B49FC6AD2A5AB29438079BD28EA8_",
+                                "Installments": [
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Boleto Bancário à vista",
+                                        "PaymentSystemName": "Boleto Bancário",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Vale à vista",
+                                        "PaymentSystemName": "Vale",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PagSeguro à vista",
+                                        "PaymentSystemName": "PagSeguro",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Customer Credit à vista",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 25,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 2,
+                                        "Name": "Customer Credit 2 vezes sem juros",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PicPay à vista",
+                                        "PaymentSystemName": "PicPay",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Promissoria à vista",
+                                        "PaymentSystemName": "Promissoria",
+                                        "__typename": "Installment"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "kitItems": [],
+                    "attachments": [
+                        {
+                            "id": "10",
+                            "name": "NF Presente",
+                            "required": false,
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "id": "11",
+                            "name": "Embalagem Presente",
+                            "required": false,
+                            "__typename": "Attachment"
+                        }
+                    ],
+                    "estimatedDateArrival": null
+                },
+                {
+                    "itemId": "8",
+                    "name": "Preto",
+                    "nameComplete": "Camisa Original Blusao Preto",
+                    "complementName": "",
+                    "ean": "",
+                    "variations": [
+                        {
+                            "name": "Cor",
+                            "values": [
+                                "Preto"
+                            ],
+                            "__typename": "Property"
+                        },
+                        {
+                            "name": "Tamanho",
+                            "values": [
+                                "GG"
+                            ],
+                            "__typename": "Property"
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "435",
+                            "__typename": "Reference"
+                        }
+                    ],
+                    "measurementUnit": "un",
+                    "unitMultiplier": 1,
+                    "images": [
+                        {
+                            "cacheId": "155498",
+                            "imageId": "155498",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155498-#width#-#height#/camisa1.jpg?v=636864769703600000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste1\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155498/camisa1.jpg?v=636864769703600000",
+                            "imageText": "modelo-teste1",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155499",
+                            "imageId": "155499",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155499-#width#-#height#/camisa2.jpg?v=636864769906600000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste2\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155499/camisa2.jpg?v=636864769906600000",
+                            "imageText": "modelo-teste2",
+                            "__typename": "Image"
+                        }
+                    ],
+                    "__typename": "SKU",
+                    "videos": [],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Original io - Stores Vtex.IO",
+                            "sellerDefault": true,
+                            "__typename": "Seller",
+                            "addToCartLink": "https://portal.vtexcommercestable.com.br/checkout/cart/add?sku=8&qty=1&seller=1&sc=1&price=5000&cv=8358B49FC6AD2A5AB29438079BD28EA8_&sc=1",
+                            "commertialOffer": {
+                                "discountHighlights": [],
+                                "teasers": [],
+                                "Price": 50,
+                                "ListPrice": 50,
+                                "Tax": 0,
+                                "taxPercentage": 0,
+                                "spotPrice": 50,
+                                "PriceWithoutDiscount": 50,
+                                "RewardValue": 0,
+                                "PriceValidUntil": "2023-05-12T18:04:05Z",
+                                "AvailableQuantity": 150,
+                                "__typename": "Offer",
+                                "CacheVersionUsedToCallCheckout": "8358B49FC6AD2A5AB29438079BD28EA8_",
+                                "Installments": [
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Boleto Bancário à vista",
+                                        "PaymentSystemName": "Boleto Bancário",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Vale à vista",
+                                        "PaymentSystemName": "Vale",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PagSeguro à vista",
+                                        "PaymentSystemName": "PagSeguro",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Customer Credit à vista",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 25,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 2,
+                                        "Name": "Customer Credit 2 vezes sem juros",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PicPay à vista",
+                                        "PaymentSystemName": "PicPay",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Promissoria à vista",
+                                        "PaymentSystemName": "Promissoria",
+                                        "__typename": "Installment"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "kitItems": [],
+                    "attachments": [],
+                    "estimatedDateArrival": null
+                },
+                {
+                    "itemId": "9",
+                    "name": "Amarelo",
+                    "nameComplete": "Camisa Original Blusao Amarelo",
+                    "complementName": "",
+                    "ean": "",
+                    "variations": [
+                        {
+                            "name": "Cor",
+                            "values": [
+                                "Amarelo"
+                            ],
+                            "__typename": "Property"
+                        },
+                        {
+                            "name": "Tamanho",
+                            "values": [
+                                "G"
+                            ],
+                            "__typename": "Property"
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "6576",
+                            "__typename": "Reference"
+                        }
+                    ],
+                    "measurementUnit": "un",
+                    "unitMultiplier": 1,
+                    "images": [
+                        {
+                            "cacheId": "155500",
+                            "imageId": "155500",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155500-#width#-#height#/camisa2.jpg?v=636864770895100000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste1\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155500/camisa2.jpg?v=636864770895100000",
+                            "imageText": "modelo-teste1",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155501",
+                            "imageId": "155501",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155501-#width#-#height#/camisa.jpg?v=636864771439670000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste2\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155501/camisa.jpg?v=636864771439670000",
+                            "imageText": "modelo-teste2",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155502",
+                            "imageId": "155502",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155502-#width#-#height#/camisa1.jpg?v=636864771598330000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste3\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155502/camisa1.jpg?v=636864771598330000",
+                            "imageText": "modelo-teste3",
+                            "__typename": "Image"
+                        }
+                    ],
+                    "__typename": "SKU",
+                    "videos": [],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Original io - Stores Vtex.IO",
+                            "sellerDefault": true,
+                            "__typename": "Seller",
+                            "addToCartLink": "https://portal.vtexcommercestable.com.br/checkout/cart/add?sku=9&qty=1&seller=1&sc=1&price=5000&cv=8358B49FC6AD2A5AB29438079BD28EA8_&sc=1",
+                            "commertialOffer": {
+                                "discountHighlights": [],
+                                "teasers": [],
+                                "Price": 50,
+                                "ListPrice": 50,
+                                "Tax": 0,
+                                "taxPercentage": 0,
+                                "spotPrice": 50,
+                                "PriceWithoutDiscount": 50,
+                                "RewardValue": 0,
+                                "PriceValidUntil": "2023-05-12T18:04:05Z",
+                                "AvailableQuantity": 456,
+                                "__typename": "Offer",
+                                "CacheVersionUsedToCallCheckout": "8358B49FC6AD2A5AB29438079BD28EA8_",
+                                "Installments": [
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Boleto Bancário à vista",
+                                        "PaymentSystemName": "Boleto Bancário",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Vale à vista",
+                                        "PaymentSystemName": "Vale",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PagSeguro à vista",
+                                        "PaymentSystemName": "PagSeguro",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Customer Credit à vista",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 25,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 2,
+                                        "Name": "Customer Credit 2 vezes sem juros",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PicPay à vista",
+                                        "PaymentSystemName": "PicPay",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 50,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 50,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Promissoria à vista",
+                                        "PaymentSystemName": "Promissoria",
+                                        "__typename": "Installment"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "kitItems": [],
+                    "attachments": [],
+                    "estimatedDateArrival": null
+                }
+            ]
+        },
+        {
+            "cacheId": "blusa--copy-13-",
+            "productId": "13",
+            "description": "Descriçao breve sobre caracteristicas  e detalhes do produto",
+            "productName": "Blusa regata",
+            "productReference": "54687889",
+            "linkText": "blusa--copy-13-",
+            "brand": "Original",
+            "brandId": 2000000,
+            "link": "https://portal.vtexcommercestable.com.br/blusa--copy-13-/p",
+            "categories": [
+                "/Moda/Feminino/Blusas/",
+                "/Moda/Feminino/",
+                "/Moda/"
+            ],
+            "categoryId": "8",
+            "priceRange": {
+                "sellingPrice": {
+                    "highPrice": 90,
+                    "lowPrice": 90,
+                    "__typename": "PriceRange"
+                },
+                "listPrice": {
+                    "highPrice": 90,
+                    "lowPrice": 90,
+                    "__typename": "PriceRange"
+                },
+                "__typename": "ProductPriceRange"
+            },
+            "specificationGroups": [
+                {
+                    "name": "Caracteristicas",
+                    "originalName": "Caracteristicas",
+                    "specifications": [
+                        {
+                            "name": "Material",
+                            "originalName": "Material",
+                            "values": [
+                                "Algodao",
+                                "Poliester",
+                                "Veludo",
+                                "Jeans"
+                            ],
+                            "__typename": "SpecificationGroupProperty"
+                        }
+                    ],
+                    "__typename": "SpecificationGroup"
+                },
+                {
+                    "name": "allSpecifications",
+                    "originalName": "allSpecifications",
+                    "specifications": [
+                        {
+                            "name": "Material",
+                            "originalName": "Material",
+                            "values": [
+                                "Algodao",
+                                "Poliester",
+                                "Veludo",
+                                "Jeans"
+                            ],
+                            "__typename": "SpecificationGroupProperty"
+                        }
+                    ],
+                    "__typename": "SpecificationGroup"
+                }
+            ],
+            "skuSpecifications": [
+                {
+                    "field": {
+                        "name": "Cor",
+                        "originalName": "Cor",
+                        "__typename": "SKUSpecificationField"
+                    },
+                    "values": [
+                        {
+                            "name": "Amarelo",
+                            "originalName": "Amarelo",
+                            "__typename": "SKUSpecificationValue"
+                        },
+                        {
+                            "name": "Branco",
+                            "originalName": "Branco",
+                            "__typename": "SKUSpecificationValue"
+                        },
+                        {
+                            "name": "Preto",
+                            "originalName": "Preto",
+                            "__typename": "SKUSpecificationValue"
+                        }
+                    ],
+                    "__typename": "SkuSpecification"
+                },
+                {
+                    "field": {
+                        "name": "Tamanho",
+                        "originalName": "Tamanho",
+                        "__typename": "SKUSpecificationField"
+                    },
+                    "values": [
+                        {
+                            "name": "P",
+                            "originalName": "P",
+                            "__typename": "SKUSpecificationValue"
+                        },
+                        {
+                            "name": "G",
+                            "originalName": "G",
+                            "__typename": "SKUSpecificationValue"
+                        }
+                    ],
+                    "__typename": "SkuSpecification"
+                }
+            ],
+            "properties": [
+                {
+                    "name": "Material",
+                    "values": [
+                        "Algodao",
+                        "Poliester",
+                        "Veludo",
+                        "Jeans"
+                    ],
+                    "__typename": "Property"
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "37",
+                    "name": "Preto",
+                    "nameComplete": "Blusa regata Preto",
+                    "complementName": "",
+                    "ean": "",
+                    "variations": [
+                        {
+                            "name": "Cor",
+                            "values": [
+                                "Preto"
+                            ],
+                            "__typename": "Property"
+                        },
+                        {
+                            "name": "Tamanho",
+                            "values": [
+                                "G"
+                            ],
+                            "__typename": "Property"
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "54687889",
+                            "__typename": "Reference"
+                        }
+                    ],
+                    "measurementUnit": "un",
+                    "unitMultiplier": 1,
+                    "images": [
+                        {
+                            "cacheId": "155510",
+                            "imageId": "155510",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155510-#width#-#height#/blusa.jpg?v=636865345462400000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste1\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155510/blusa.jpg?v=636865345462400000",
+                            "imageText": "modelo-teste1",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155511",
+                            "imageId": "155511",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155511-#width#-#height#/blusa1.jpg?v=636865345809330000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste2\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155511/blusa1.jpg?v=636865345809330000",
+                            "imageText": "modelo-teste2",
+                            "__typename": "Image"
+                        }
+                    ],
+                    "__typename": "SKU",
+                    "videos": [],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Original io - Stores Vtex.IO",
+                            "sellerDefault": true,
+                            "__typename": "Seller",
+                            "addToCartLink": "https://portal.vtexcommercestable.com.br/checkout/cart/add?sku=37&qty=1&seller=1&sc=1&price=9000&cv=6F84B0F371D4A06AA40AC8E27160D2BC_&sc=1",
+                            "commertialOffer": {
+                                "discountHighlights": [],
+                                "teasers": [],
+                                "Price": 90,
+                                "ListPrice": 90,
+                                "Tax": 0,
+                                "taxPercentage": 0,
+                                "spotPrice": 90,
+                                "PriceWithoutDiscount": 90,
+                                "RewardValue": 0,
+                                "PriceValidUntil": "2023-05-12T18:06:03Z",
+                                "AvailableQuantity": 1000000,
+                                "__typename": "Offer",
+                                "CacheVersionUsedToCallCheckout": "6F84B0F371D4A06AA40AC8E27160D2BC_",
+                                "Installments": [
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Boleto Bancário à vista",
+                                        "PaymentSystemName": "Boleto Bancário",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Vale à vista",
+                                        "PaymentSystemName": "Vale",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PagSeguro à vista",
+                                        "PaymentSystemName": "PagSeguro",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Customer Credit à vista",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 45,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 2,
+                                        "Name": "Customer Credit 2 vezes sem juros",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PicPay à vista",
+                                        "PaymentSystemName": "PicPay",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Promissoria à vista",
+                                        "PaymentSystemName": "Promissoria",
+                                        "__typename": "Installment"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "kitItems": [],
+                    "attachments": [],
+                    "estimatedDateArrival": null
+                },
+                {
+                    "itemId": "38",
+                    "name": "Branco",
+                    "nameComplete": "Blusa regata Branco",
+                    "complementName": "",
+                    "ean": "",
+                    "variations": [
+                        {
+                            "name": "Cor",
+                            "values": [
+                                "Branco"
+                            ],
+                            "__typename": "Property"
+                        },
+                        {
+                            "name": "Tamanho",
+                            "values": [
+                                "P"
+                            ],
+                            "__typename": "Property"
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "6547658765",
+                            "__typename": "Reference"
+                        }
+                    ],
+                    "measurementUnit": "un",
+                    "unitMultiplier": 1,
+                    "images": [
+                        {
+                            "cacheId": "155512",
+                            "imageId": "155512",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155512-#width#-#height#/blusa2.jpg?v=636865346303370000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste2\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155512/blusa2.jpg?v=636865346303370000",
+                            "imageText": "modelo-teste2",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155515",
+                            "imageId": "155515",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155515-#width#-#height#/blusa1.jpg?v=636865347299670000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste3\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155515/blusa1.jpg?v=636865347299670000",
+                            "imageText": "modelo-teste3",
+                            "__typename": "Image"
+                        }
+                    ],
+                    "__typename": "SKU",
+                    "videos": [],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Original io - Stores Vtex.IO",
+                            "sellerDefault": true,
+                            "__typename": "Seller",
+                            "addToCartLink": "https://portal.vtexcommercestable.com.br/checkout/cart/add?sku=38&qty=1&seller=1&sc=1&price=9000&cv=6F84B0F371D4A06AA40AC8E27160D2BC_&sc=1",
+                            "commertialOffer": {
+                                "discountHighlights": [],
+                                "teasers": [],
+                                "Price": 90,
+                                "ListPrice": 90,
+                                "Tax": 0,
+                                "taxPercentage": 0,
+                                "spotPrice": 90,
+                                "PriceWithoutDiscount": 90,
+                                "RewardValue": 0,
+                                "PriceValidUntil": "2023-05-12T18:06:02Z",
+                                "AvailableQuantity": 1000000,
+                                "__typename": "Offer",
+                                "CacheVersionUsedToCallCheckout": "6F84B0F371D4A06AA40AC8E27160D2BC_",
+                                "Installments": [
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Boleto Bancário à vista",
+                                        "PaymentSystemName": "Boleto Bancário",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Vale à vista",
+                                        "PaymentSystemName": "Vale",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PagSeguro à vista",
+                                        "PaymentSystemName": "PagSeguro",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Customer Credit à vista",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 45,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 2,
+                                        "Name": "Customer Credit 2 vezes sem juros",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PicPay à vista",
+                                        "PaymentSystemName": "PicPay",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Promissoria à vista",
+                                        "PaymentSystemName": "Promissoria",
+                                        "__typename": "Installment"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "kitItems": [],
+                    "attachments": [],
+                    "estimatedDateArrival": null
+                },
+                {
+                    "itemId": "39",
+                    "name": "Amarelo",
+                    "nameComplete": "Blusa regata Amarelo",
+                    "complementName": "",
+                    "ean": "",
+                    "variations": [
+                        {
+                            "name": "Cor",
+                            "values": [
+                                "Amarelo"
+                            ],
+                            "__typename": "Property"
+                        },
+                        {
+                            "name": "Tamanho",
+                            "values": [
+                                "G"
+                            ],
+                            "__typename": "Property"
+                        }
+                    ],
+                    "referenceId": [
+                        {
+                            "Key": "RefId",
+                            "Value": "5646547",
+                            "__typename": "Reference"
+                        }
+                    ],
+                    "measurementUnit": "un",
+                    "unitMultiplier": 1,
+                    "images": [
+                        {
+                            "cacheId": "155513",
+                            "imageId": "155513",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155513-#width#-#height#/blusa.jpg?v=636865346688800000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste1\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155513/blusa.jpg?v=636865346688800000",
+                            "imageText": "modelo-teste1",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155514",
+                            "imageId": "155514",
+                            "imageLabel": "frente",
+                            "imageTag": "<img src=\"~/arquivos/ids/155514-#width#-#height#/blusa1.jpg?v=636865346816300000\" width=\"#width#\" height=\"#height#\" alt=\"modelo-teste2\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155514/blusa1.jpg?v=636865346816300000",
+                            "imageText": "modelo-teste2",
+                            "__typename": "Image"
+                        }
+                    ],
+                    "__typename": "SKU",
+                    "videos": [],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Original io - Stores Vtex.IO",
+                            "sellerDefault": true,
+                            "__typename": "Seller",
+                            "addToCartLink": "https://portal.vtexcommercestable.com.br/checkout/cart/add?sku=39&qty=1&seller=1&sc=1&price=9000&cv=6F84B0F371D4A06AA40AC8E27160D2BC_&sc=1",
+                            "commertialOffer": {
+                                "discountHighlights": [],
+                                "teasers": [],
+                                "Price": 90,
+                                "ListPrice": 90,
+                                "Tax": 0,
+                                "taxPercentage": 0,
+                                "spotPrice": 90,
+                                "PriceWithoutDiscount": 90,
+                                "RewardValue": 0,
+                                "PriceValidUntil": "2023-05-12T18:06:03Z",
+                                "AvailableQuantity": 1000000,
+                                "__typename": "Offer",
+                                "CacheVersionUsedToCallCheckout": "6F84B0F371D4A06AA40AC8E27160D2BC_",
+                                "Installments": [
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Boleto Bancário à vista",
+                                        "PaymentSystemName": "Boleto Bancário",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Vale à vista",
+                                        "PaymentSystemName": "Vale",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PagSeguro à vista",
+                                        "PaymentSystemName": "PagSeguro",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Customer Credit à vista",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 45,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 2,
+                                        "Name": "Customer Credit 2 vezes sem juros",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PicPay à vista",
+                                        "PaymentSystemName": "PicPay",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 90,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Promissoria à vista",
+                                        "PaymentSystemName": "Promissoria",
+                                        "__typename": "Installment"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "kitItems": [],
+                    "attachments": [],
+                    "estimatedDateArrival": null
+                }
+            ]
+        },
+        {
+            "cacheId": "terno",
+            "productId": "48",
+            "description": "",
+            "productName": "terno",
+            "productReference": "9992",
+            "linkText": "terno",
+            "brand": "Original",
+            "brandId": 2000000,
+            "link": "https://portal.vtexcommercestable.com.br/terno/p",
+            "categories": [
+                "/Moda/Masculino/",
+                "/Moda/"
+            ],
+            "categoryId": "1",
+            "priceRange": {
+                "sellingPrice": {
+                    "highPrice": 180,
+                    "lowPrice": 180,
+                    "__typename": "PriceRange"
+                },
+                "listPrice": {
+                    "highPrice": 200,
+                    "lowPrice": 200,
+                    "__typename": "PriceRange"
+                },
+                "__typename": "ProductPriceRange"
+            },
+            "specificationGroups": [
+                {
+                    "name": "Caracteristicas",
+                    "originalName": "Caracteristicas",
+                    "specifications": [
+                        {
+                            "name": "Material",
+                            "originalName": "Material",
+                            "values": [
+                                "Algodao"
+                            ],
+                            "__typename": "SpecificationGroupProperty"
+                        }
+                    ],
+                    "__typename": "SpecificationGroup"
+                },
+                {
+                    "name": "allSpecifications",
+                    "originalName": "allSpecifications",
+                    "specifications": [
+                        {
+                            "name": "Material",
+                            "originalName": "Material",
+                            "values": [
+                                "Algodao"
+                            ],
+                            "__typename": "SpecificationGroupProperty"
+                        }
+                    ],
+                    "__typename": "SpecificationGroup"
+                }
+            ],
+            "skuSpecifications": [
+                {
+                    "field": {
+                        "name": "Cor",
+                        "originalName": "Cor",
+                        "__typename": "SKUSpecificationField"
+                    },
+                    "values": [
+                        {
+                            "name": "Preto",
+                            "originalName": "Preto",
+                            "__typename": "SKUSpecificationValue"
+                        }
+                    ],
+                    "__typename": "SkuSpecification"
+                },
+                {
+                    "field": {
+                        "name": "Tamanho",
+                        "originalName": "Tamanho",
+                        "__typename": "SKUSpecificationField"
+                    },
+                    "values": [
+                        {
+                            "name": "M",
+                            "originalName": "M",
+                            "__typename": "SKUSpecificationValue"
+                        }
+                    ],
+                    "__typename": "SkuSpecification"
+                }
+            ],
+            "properties": [
+                {
+                    "name": "Material",
+                    "values": [
+                        "Algodao"
+                    ],
+                    "__typename": "Property"
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "93",
+                    "name": "Terno",
+                    "nameComplete": "Terno",
+                    "complementName": "",
+                    "ean": "9997",
+                    "variations": [
+                        {
+                            "name": "Cor",
+                            "values": [
+                                "Preto"
+                            ],
+                            "__typename": "Property"
+                        },
+                        {
+                            "name": "Tamanho",
+                            "values": [
+                                "M"
+                            ],
+                            "__typename": "Property"
+                        }
+                    ],
+                    "referenceId": null,
+                    "measurementUnit": "un",
+                    "unitMultiplier": 1,
+                    "images": [
+                        {
+                            "cacheId": "155667",
+                            "imageId": "155667",
+                            "imageLabel": "ternocostas",
+                            "imageTag": "<img src=\"~/arquivos/ids/155667-#width#-#height#/ricardo_almeida_4490_fc_2216_baixa.jpg?v=637233367826900000\" width=\"#width#\" height=\"#height#\" alt=\"terno-frente\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155667/ricardo_almeida_4490_fc_2216_baixa.jpg?v=637233367826900000",
+                            "imageText": "terno-frente",
+                            "__typename": "Image"
+                        },
+                        {
+                            "cacheId": "155668",
+                            "imageId": "155668",
+                            "imageLabel": "ternocostas",
+                            "imageTag": "<img src=\"~/arquivos/ids/155668-#width#-#height#/ricardo_almeida_4490_fc_2217_baixa.jpg?v=637233368110570000\" width=\"#width#\" height=\"#height#\" alt=\"terno-costas\" id=\"\" />",
+                            "imageUrl": "https://original.vtexassets.com/arquivos/ids/155668/ricardo_almeida_4490_fc_2217_baixa.jpg?v=637233368110570000",
+                            "imageText": "terno-costas",
+                            "__typename": "Image"
+                        }
+                    ],
+                    "__typename": "SKU",
+                    "videos": [],
+                    "sellers": [
+                        {
+                            "sellerId": "1",
+                            "sellerName": "Original io - Stores Vtex.IO",
+                            "sellerDefault": true,
+                            "__typename": "Seller",
+                            "addToCartLink": "https://portal.vtexcommercestable.com.br/checkout/cart/add?sku=93&qty=1&seller=1&sc=1&price=18000&cv=F3F9BB9A13BFFD5058FDFD87BCD1BBD4_&sc=1",
+                            "commertialOffer": {
+                                "discountHighlights": [],
+                                "teasers": [],
+                                "Price": 180,
+                                "ListPrice": 200,
+                                "Tax": 0,
+                                "taxPercentage": 0,
+                                "spotPrice": 180,
+                                "PriceWithoutDiscount": 180,
+                                "RewardValue": 0,
+                                "PriceValidUntil": "2023-05-12T18:06:02Z",
+                                "AvailableQuantity": 1000000,
+                                "__typename": "Offer",
+                                "CacheVersionUsedToCallCheckout": "F3F9BB9A13BFFD5058FDFD87BCD1BBD4_",
+                                "Installments": [
+                                    {
+                                        "Value": 180,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 180,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Boleto Bancário à vista",
+                                        "PaymentSystemName": "Boleto Bancário",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 180,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 180,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Vale à vista",
+                                        "PaymentSystemName": "Vale",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 180,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 180,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PagSeguro à vista",
+                                        "PaymentSystemName": "PagSeguro",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 180,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 180,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Customer Credit à vista",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 90,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 180,
+                                        "NumberOfInstallments": 2,
+                                        "Name": "Customer Credit 2 vezes sem juros",
+                                        "PaymentSystemName": "Customer Credit",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 180,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 180,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "PicPay à vista",
+                                        "PaymentSystemName": "PicPay",
+                                        "__typename": "Installment"
+                                    },
+                                    {
+                                        "Value": 180,
+                                        "InterestRate": 0,
+                                        "TotalValuePlusInterestRate": 180,
+                                        "NumberOfInstallments": 1,
+                                        "Name": "Promissoria à vista",
+                                        "PaymentSystemName": "Promissoria",
+                                        "__typename": "Installment"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "kitItems": [],
+                    "attachments": [],
+                    "estimatedDateArrival": null
+                }
+            ]
+        }
+    ]
+  }
+  
